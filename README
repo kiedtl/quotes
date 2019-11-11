@@ -1,0 +1,29 @@
+Memoriable quotes
+=================
+
+I might create my own personal fortune database out of this 
+someday.
+
+Format
+------
+<TAB>"quote." -- Haavard P. Author
+@@
+<TAB>"quote." -- John D. Smith
+
+Contributing
+------------
+	- ensure that you follow the main format when adding new quotes.
+	- do not remove quotes in PR's; if you do, you'd better give a very good reason for doing so.
+	- add new quotes at the bottom.
+	- remember: I am under no obligation to you to merge your patches; if you dislike the fact that your PR wasn't merged, either fork this repo or f*** off.
+
+---
+
+	"The wonderful thing about stadards is tat there are so many of then to choose from." -- Grace Murray Hopper
+@@
+	"Unix is simple and coherent." -- Dennis Ritchie
+	"GNU's not UNIX." -- Richard Stallman
+@@
+	"I want peace and I'm willing to fight for it." -- Harry Truman
+@@
+	"Always be sincere, even if you don't mean it." -- Harry Truman
